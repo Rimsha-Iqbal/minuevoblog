@@ -1,7 +1,7 @@
 ---
 layout: page
 titule: Mi Curriculom
-permalink: /micv/
+permalink: /mi-cv/
 ---
 # **Rimsha Iqbal**
 
