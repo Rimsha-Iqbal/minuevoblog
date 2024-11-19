@@ -1,6 +1,6 @@
 ---
 layout: page
-titule: Mi Curriculom
+title: Mi CV
 permalink: /mi-cv/
 ---
 # **Rimsha Iqbal**
