@@ -1,0 +1,8 @@
+---
+layout: post
+title: Segundo post
+dtae: 2024-15-11
+permalink: /Rim-Iqbal/
+---
+
+Este es el segundo post. 
