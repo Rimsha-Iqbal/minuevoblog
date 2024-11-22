@@ -23,8 +23,8 @@ email: rimiqbal777@gmail.com
 description: Ejercicio de IAW Actividad 2.1
  # this means to ignore newlines until "baseurl:"
   
-baseurl: "/minuevoblog" # the subpath of your site, e.g. /blog
-url: "https://rimsha-iqbal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /minuevoblog # the subpath of your site, e.g. /blog
+url: https://rimsha-iqbal.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: itx_ri
 github_username:  Rimsha-Iqbal
 
